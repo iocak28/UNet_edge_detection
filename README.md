@@ -1,4 +1,4 @@
-# UNet_edge_detection
+# Edge Detection Using U-Net Architecture
 
 ## Abstract
 Edge Detection on Berkeley Dataset Using U-Net
