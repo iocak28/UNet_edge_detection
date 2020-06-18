@@ -1,6 +1,6 @@
 # Edge Detection Using U-Net Architecture
 
-![woman](unet_house.png)
+![house](unet_house.png)
 
 ## Abstract
 Edge Detection on Berkeley Dataset Using U-Net
@@ -25,6 +25,10 @@ architecture has a promising performance on this problem,
 and might be able to stay competitive with other deep learning
 based methods after some optimization.
 
+![bear](bear_all.png)
+
+![woman](unet_woman.png)
+
 ## Codes:
 [pytorch_unet-edge.ipynb](pytorch_unet-edge.ipynb): Notebook that contains all training, prediction and comparisons with other methods
 
@@ -34,3 +38,8 @@ These files were required to run the HED algorithm (used in comparison)
 - download_pretrained.sh
 - hed_pretrained_bsds.caffemodel
 
+## Contributors
+| <a href="https://github.com/iocak28" target="_blank">**Ismail Ocak**</a> | <a href="https://github.com/otepencelik" target="_blank">**Onur Tepencelik**</a> |
+| :---: |:---:|
+| [![Ismail Ocak](https://avatars0.githubusercontent.com/u/14804342?s=400&v=4)](https://github.com/iocak28)    | [![Onur Tepencelik](https://avatars1.githubusercontent.com/u/62047450?s=400&v=4)](https://github.com/otepencelik) | 
+| <a href="https://github.com/iocak28" target="_blank">`github.com/iocak28`</a> | <a href="https://github.com/otepencelik" target="_blank">`github.com/otepencelik`</a> | 
