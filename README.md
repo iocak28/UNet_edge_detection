@@ -32,6 +32,9 @@ based methods after some optimization.
 ## Codes:
 [pytorch_unet-edge.ipynb](pytorch_unet-edge.ipynb): Notebook that contains all training, prediction and comparisons with other methods
 
+## Report:
+[Report_COGS225Project_Tepencelik_Ocak.pdf](Report_COGS225Project_Tepencelik_Ocak.pdf): UCSD COGS 225 Final Project Report
+
 ## Additional Files:
 These files were required to run the HED algorithm (used in comparison)
 - deploy.prototxt.txt
